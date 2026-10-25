@@ -1,0 +1,7 @@
+.main_container{
+    display:flex;
+    background-color:#00000034;
+    /* gap:20px; */
+    /* border:2px solid green; */
+    /* min-height:100vh; */
+}

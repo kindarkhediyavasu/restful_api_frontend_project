@@ -1,0 +1,19 @@
+.container{
+    min-height:100vh;
+    min-width:180px;
+    background-color:#172438;
+}
+.link{
+    text-align:center;
+    padding-block:10px;
+    border-bottom:1px solid #fff;
+}
+.link a{
+    text-decoration:none;
+    font-size:1.2rem;
+    text-transform:capitalize;
+    color:#fff;
+}
+.link:hover{
+    background-color:#082b60b6;;
+}
